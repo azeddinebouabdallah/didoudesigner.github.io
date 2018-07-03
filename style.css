@@ -1,0 +1,19 @@
+body{
+    height: 100vh;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-color: #13161E;
+}
+.center {
+    margin: 80px auto 0 auto;
+
+}
+.center.background {
+    opacity: 0;
+}
+.c-text {
+    color: #C0FFFD;
+    font-family: 'Oswald', sans-serif;
+}
